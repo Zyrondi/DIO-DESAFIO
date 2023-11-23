@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway');
+  body{
+    font-family: 'Raleway',Arial;
+    background:black;}
+
+    .logo{
+      display: inline-block;
+      box-shadow: 0 0 5px rgba(0,0,0,0.3);
+      border-radius: 100%;
+      border: 3% solid #000000;
+    }
+    
+
+
+  .banner{
+    background-image: url('banner.png'),linear-gradient(#31A8DD,#000000);
+    background-size: cover; 
+  }
+
+
+
+  .Titulo-1{
+    color:#31A8DD;
+    text-align: center;
+    
+  }
+  .banner-content{
+    
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    
+  }
+  
+
+  #BTN_SUBSCRIBE{
+    font-size:larger;
+    color: #31A8DD;
+    background:transparent ;
+    background-color:#31A8DD blur(0.1);
+    border: 3px  solid #31A8DD;
+    padding:10px  ;
+    width: 350px;
+    margin:0 auto;
+
+  }
+
+  .Sub-Text{
+    color: white;
+    font-size: 20px ;
+    text-align: center;
+    
+  }
+
+  #course-content{
+    background:linear-gradient(#000000);
+    font-weight: 700;
+    font-size: 20px;   
+    text-align: center;
+  }
+
+
+
+
+ #azul{
+  color:#31A8DD;
+ }
+
+  #Titulo-2{
+    text-align: center;
+    color:#31A8DD;
+  }
+
+
+
+
+
+  .module1{
+    
+    background-color: transparent;
+    color:white;
+    background-color:#31A8DD blur(0.1),transparent;
+    border: 2px solid #31A8DD;
+    padding:8px ;
+    border-radius: 57px;
+    margin: auto;
+    width: 650px;
+  }
+
+ 
+
+  .module2{
+    background-color: transparent;
+    color:white;
+    background-color:#31A8DD blur(0.1),transparent;
+    border: 2px solid #31A8DD;
+    padding:8px ;
+    border-radius: 57px;
+    margin: auto;
+    width: 650px;
+  }
+
+  .module3{
+    background-color: transparent;
+    color:white;
+    background-color:#31A8DD blur(0.1),transparent;
+    border: 2px solid #31A8DD;
+    padding:8px ;
+    border-radius: 57px;
+    margin: auto;
+    width: 650px;
+  }
+
+  
+  
+  .transform-world{
+    display: inline-block;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+  }
+
+  #crop{
+    background-image: url('/woman-code.png');
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 450px;
+    width: cover auto;
+    position: relative;
+    position: hidden;
+
+  }
+
+  #crop span{
+    
+    position: absolute;
+    top: 50%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    text-transform: lowercase;
+    color: #31A8DD;
+    text-shadow: 3px 2px #31A8DD;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+
+    
+
+    .dio-logo{
+      margin:0 auto;
+      display:block;
+    }
+
+    #site{
+      text-align: center;
+      color: wheat;
+
+
+    }
